@@ -1,0 +1,22 @@
+{
+  "name": "jest-course",
+  "version": "1.0.0",
+  "description": "unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvykool/Jest-course.git"
+  },
+  "author": "maicol h",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvykool/Jest-course/issues"
+  },
+  "homepage": "https://github.com/mvykool/Jest-course#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

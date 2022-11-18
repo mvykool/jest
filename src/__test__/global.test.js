@@ -66,13 +66,13 @@ test("test async", async () => {
   expect(string).toBe("aloh");
 });
 
-//before the tests
+/* before the tests
 
 beforeEach(()=> console.log("before each test"));
 beforeAll(() => console.log("before all the tests"));
 
 
-//after teh tests
+after teh tests
 
 afterEach(() => console.log("after each test"));
-afterAll(()=> console.log("after all the tests"))
+afterAll(()=> console.log("after all the tests")) */
